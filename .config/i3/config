@@ -224,7 +224,7 @@ exec_always xset r rate 250 45
 
 hide_edge_borders both
 
-exec --no-startup-id compton -f
+exec --no-startup-id compton 
 
 
 
